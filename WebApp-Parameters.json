@@ -1,0 +1,14 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject-2"
+    },
+    {
+    "ParameterKey": "DNSProtocol",
+    "ParameterValue": "http://"
+    },
+    {
+    "ParameterKey": "ApplicationS3Bucket",
+    "ParameterValue": "myawsudacity"
+    }
+]

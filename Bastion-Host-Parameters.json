@@ -1,0 +1,19 @@
+
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject-2"
+    },
+    {
+    "ParameterKey": "NetworkAccessIP",
+    "ParameterValue": "196.216.221.66/28"
+    },
+    {
+    "ParameterKey": "BastionHostSSHS3Bucket",
+    "ParameterValue": "Bastion_Host"
+    },
+    {
+    "ParameterKey": "BastionHostSSHKeyName",
+    "ParameterValue": "Pascal_Udacity"
+    }
+]
