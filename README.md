@@ -126,7 +126,7 @@ Be sure to delete your stacks using `delete-stack.sh` to avoid ongoing AWS charg
 ## 🧾 Documentation & Resources
 
 - 📄 [Project PDF Report](./Udacity%20Project-2.pdf)
-- 🖼️ [Network Diagram (PNG)](./Udacity%20Project-2.png)
+- 🖼️ [Network Diagram (PNG)](https://github.com/Pascal831/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Infrastructure_diagram.png)
 
 ---
 
