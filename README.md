@@ -123,6 +123,13 @@ Be sure to delete your stacks using `delete-stack.sh` to avoid ongoing AWS charg
 
 ---
 
+## 🧾 Documentation & Resources
+
+- 📄 [Project PDF Report](./Udacity%20Project-2.pdf)
+- 🖼️ [Network Diagram (PNG)](./Udacity%20Project-2.png)
+
+---
+
 ## 🚀 Conclusion
 
 This project demonstrates how to build a production-ready, automated AWS infrastructure using CloudFormation. It emphasizes modularity, high availability, scalability, and secure access—all critical components for any DevOps or cloud-focused role.
